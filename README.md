@@ -4,9 +4,8 @@
 
 
 <h3>AIM:</h3>
-<br>
 <p>To find the PEAS description for the given AI problem and develop an AI agent.</p>
-<br>
+
 <h3>THEORY</h3>
 <h3>Lift Safety Agent:</h3>
 <p>This agent can effectively manage the lift's operation, optimizing performance while ensuring safety and efficiency for passengers. It can make decisions such as which floor to travel to next, when to open or close the doors, and if the number of people entering the lift exceeds the maximum capacity limit of 15, the AI agent will trigger a warning message to ensure safety and adherence to regulations. This warning will alert passengers to reduce the number of occupants inside the lift to a safe level.</p>
