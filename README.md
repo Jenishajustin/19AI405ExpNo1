@@ -1,8 +1,6 @@
 <h1>Exp No 1 : Developing AI Agent with PEAS Description</h1>
 <h3>Name: J JENISHA</h3>
 <h3>Register Number : 212222230056</h3>
-
-
 <h3>AIM:</h3>
 <p>To find the PEAS description for the given AI problem and develop an AI agent.</p>
 
@@ -47,7 +45,6 @@ Ensuring passenger safety by moving between floors A and B, opening/closing door
 import random
 import time
 
-
 class Thing: 
     """
     This represents any physical object that can appear in an Environment. """
@@ -82,7 +79,6 @@ def TableDrivenAgentProgram(table):
     {percept_sequence:action} pairs. """
     percepts = []
     
-
     def program(percept):
         action = None
         percepts.append(percept)
@@ -247,6 +243,5 @@ if   __name__ == "__main__":
 
 <H3>OUTPUT</H3>
 <img src="https://github.com/Jenishajustin/19AI405ExpNo1/assets/119405070/acabe65d-c4c6-4458-a1b8-9c937e7d569c">
-
 <H3>RESULT</H3>
 Thus , Developing an AI agent with PEAS is implemented successfully using python programming.
