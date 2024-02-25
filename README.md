@@ -247,7 +247,7 @@ if   __name__ == "__main__":
 ```
 
 <H3>OUTPUT</H3>
-![Screenshot 2024-02-25 120011](https://github.com/Jenishajustin/19AI405ExpNo1/assets/119405070/acabe65d-c4c6-4458-a1b8-9c937e7d569c)
+<img src="https://github.com/Jenishajustin/19AI405ExpNo1/assets/119405070/acabe65d-c4c6-4458-a1b8-9c937e7d569c">
 
 <H3>RESULT</H3>
 Thus , Developing an AI agent with PEAS is implemented successfully using python programming.
